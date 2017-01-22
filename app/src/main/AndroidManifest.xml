@@ -8,7 +8,7 @@
 
         <uses-library android:name="com.google.android.things"/>
 
-        <activity android:name=".ui.activity.ButtonActivity">
+        <activity android:name=".ui.activity.NumberIndicatorActivity">
             <!-- Launch activity as default from Android Studio -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
